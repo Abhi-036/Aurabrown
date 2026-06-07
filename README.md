@@ -29,3 +29,4 @@ INSTALLATION NEEDED-
   -also install need dependencies going through the package file.
 -audit if any required
 
+If you want deploy this code make sure you have created Index.html file as well as other assets needed.
